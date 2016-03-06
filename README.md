@@ -20,7 +20,7 @@ OK, you've made your shiny app, now it's time to make your pitch. You get 5 slid
 ## My shiny app and slidify presentation ##   
 
 to see the application, please click [this shinyapps link] (https://kszczucki.shinyapps.io/shiny_project/)    
-to see the slidify Reproducible Pitch Presentation [this rPubs link] (https://rpubs.com/k_szczucki/94563) 
+to see the slidify Reproducible Pitch Presentation [this rPubs link] (http://rpubs.com/k_szczucki/Shiny_App) 
 
 
 
